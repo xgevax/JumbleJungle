@@ -56,8 +56,6 @@ checkBtn.addEventListener("click", () => {
   checkWord();
 });
 
-initGame();
-
 // document.addEventListener("DOMContentLoaded", () => {
 //   const wordText = document.querySelector(".word"),
 //       hintText = document.querySelector(".hint span"),
