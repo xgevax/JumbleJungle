@@ -1,90 +1,93 @@
 let word = [
+[
     {
-      word: "rainforest",
-      hint: "A dense, tropical forest with high rainfall"
+        word: "regenwoud",
+        hint: "Een dicht, tropisch bos met veel regenval"
     },
     {
-        word: "tropical",
-        hint: "Relating to the warm regions near the equator"
+        word: "tropisch",
+        hint: "Gerelateerd aan de warme gebieden nabij de evenaar"
     },
     {
         word: "mangrove",
-        hint: "A type of tree that grows in coastal swamps"
+        hint: "Een soort boom die groeit in kustmoerassen"
     },
     {
-        word: "crocodiles",
-        hint: "Large aquatic reptiles found in tropical regions"
+        word: "krokodillen",
+        hint: "Grote aquatische reptielen die worden gevonden in tropische regio's"
     },
     {
-        word: "tarantula",
-        hint: "A large, hairy spider often found in tropical areas"
+        word: "vogelspin",
+        hint: "Een grote, harige spin die vaak voorkomt in tropische gebieden"
     },
     {
-        word: "tropics",
-        hint: "Regions with warm climate and abundant sunshine"
+        word: "tropen",
+        hint: "Regio's met een warm klimaat en overvloedige zonneschijn"
     },
     {
-        word: "paradise",
-        hint: "A place or state of bliss, often tropical"
+        word: "paradijs",
+        hint: "Een plaats of staat van zaligheid, vaak tropisch"
     },
     {
-        word: "tigerwood",
-        hint: "A type of exotic wood with distinctive stripes"
+        word: "tijgerhout",
+        hint: "Een soort exotisch hout met kenmerkende strepen"
     },
     {
-        word: "amazon",
-        hint: "The largest rainforest in the world"
+        word: "Amazone",
+        hint: "Het grootste regenwoud ter wereld"
     },
     {
-        word: "exotic",
-        hint: "Unusual and fascinating, often from distant lands"
+        word: "exotisch",
+        hint: "Ongewoon en fascinerend, vaak afkomstig uit verre landen"
     },
     {
-        word: "lush",
-        hint: "Rich and abundant in vegetation"
+        word: "weelderig",
+        hint: "Rijk en overvloedig aan vegetatie"
     },
     {
-        word: "sloth",
-        hint: "A slow-moving animal found in tropical rainforests"
+        word: "luiaard",
+        hint: "Een langzaam bewegend dier dat wordt gevonden in tropische regenwouden"
     },
     {
         word: "tapir",
-        hint: "A large, herbivorous mammal with a short snout"
+        hint: "Een groot, herbivoor zoogdier met een korte snuit"
     },
     {
-        word: "temperature",
-        hint: "A measure of how hot or cold something is"
+        word: "temperatuur",
+        hint: "Een maat voor hoe warm of koud iets is"
     },
     {
-        word: "forest",
-        hint: "A lot of trees together"
+        word: "bos",
+        hint: "Veel bomen bij elkaar"
     },
     {
         word: "jaguar",
-        hint: "A large wild cat found in the Americas"
+        hint: "Een grote wilde kat die wordt gevonden in de Amerika's"
     },
     {
-        word: "manatee",
-        hint: "A large, gentle sea creature also known as a sea cow"
+        word: "zeekoe",
+        hint: "Een groot, vriendelijk zeewezen dat ook bekend staat als zeekoe"
     },
     {
         word: "ocelot",
-        hint: "A small wild cat with a spotted coat"
+        hint: "Een kleine wilde kat met een gevlekte vacht"
     },
     {
-        word: "papaya",
-        hint: "A tropical fruit with orange flesh"
+        word: "papaja",
+        hint: "Een tropische vrucht met oranje vruchtvlees"
     },
     {
-        word: "coconut",
-        hint: "A tropical fruit with a hard shell and white flesh"
+        word: "kokosnoot",
+        hint: "Een tropische vrucht met een harde schaal en wit vruchtvlees"
     },
     {
         word: "capybara",
-        hint: "The largest rodent in the world, found in South America"
+        hint: "Het grootste knaagdier ter wereld, gevonden in Zuid-Amerika"
     },
     {
-        word: "rainfall",
-        hint: "Precipitation in the form of water drops from the sky"
-    },
+        word: "neerslag",
+        hint: "Neerslag in de vorm van waterdruppels uit de lucht"
+    }
+]
+
 ]
