@@ -1,29 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"></html>
   <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
-    <script src="./js/word.js"></script>
-    <script src="./js/app.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="js/words.js" defer></script>
+    <script src="js/script.js" defer></script>
     <title>Jumble Jungle</title>
   </head>
   <body>
     <div class="container">
-      <h2>Jumble Jungle</h2>
-      <div class="content">
-        <p class="word"></p>
-        <div class="info">
-          <p class="hint">Hint: <span></span></p> 
-          <p class="time">Tijd over: <span><b>30</b>s</span></p>
+        <h2>Jumble Jungle</h2>
+        <div class="content">
+            <p class="word"></p>
+            <div class="info">
+                <p class="hint">Hint: <span></span></p>
+                <p class="time">Tijd over: <span><b>30</b>s</span></p>
+            </div>
+            <input type="text" placeholder="Typ je antwoord...">
+            <div class="buttons">
+                <button class="refresh">Nieuw woord</button>
+                <button class="check">Check woord</button>
+            </div>
         </div>
-        <input type="text" placeholder="Type je antwoord...">
-        <div class="button">
-            <button class="refresh">Ander woord</button>
-            <button class="check">Check woord</button>
-        </div>
-      </div>
     </div>
   </body>
 </html>
