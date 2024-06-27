@@ -88,5 +88,3 @@ let word = [
         hint: "Neerslag in de vorm van waterdruppels uit de lucht"
     }
 ]
-
-]
