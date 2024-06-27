@@ -1,5 +1,4 @@
 let word = [
-[
     {
         word: "regenwoud",
         hint: "Een dicht, tropisch bos met veel regenval"
