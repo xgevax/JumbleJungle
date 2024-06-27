@@ -1,4 +1,4 @@
-let word = [
+let words = [
     {
         word: "regenwoud",
         hint: "Een dicht, tropisch bos met veel regenval"
