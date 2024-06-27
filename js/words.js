@@ -4,16 +4,12 @@ let words = [
         hint: "Een dicht, tropisch bos met veel regenval"
     },
     {
-        word: "tropisch",
-        hint: "Gerelateerd aan de warme gebieden nabij de evenaar"
-    },
-    {
         word: "mangrove",
         hint: "Een soort boom die groeit in kustmoerassen"
     },
     {
-        word: "krokodillen",
-        hint: "Grote aquatische reptielen die worden gevonden in tropische regio's"
+        word: "krokodil",
+        hint: "Grote aquatische reptiel die in tropische regio's leeft"
     },
     {
         word: "vogelspin",
@@ -37,11 +33,7 @@ let words = [
     },
     {
         word: "exotisch",
-        hint: "Ongewoon en fascinerend, vaak afkomstig uit verre landen"
-    },
-    {
-        word: "weelderig",
-        hint: "Rijk en overvloedig aan vegetatie"
+        hint: "Uitheems"
     },
     {
         word: "luiaard",
@@ -61,11 +53,11 @@ let words = [
     },
     {
         word: "jaguar",
-        hint: "Een grote wilde kat die wordt gevonden in de Amerika's"
+        hint: "Een grote wilde kat"
     },
     {
         word: "zeekoe",
-        hint: "Een groot, vriendelijk zeewezen dat ook bekend staat als zeekoe"
+        hint: "Een groot, vriendelijk zeewezen"
     },
     {
         word: "ocelot",
@@ -83,8 +75,4 @@ let words = [
         word: "capybara",
         hint: "Het grootste knaagdier ter wereld, gevonden in Zuid-Amerika"
     },
-    {
-        word: "neerslag",
-        hint: "Neerslag in de vorm van waterdruppels uit de lucht"
-    }
 ]
